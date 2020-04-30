@@ -1,4 +1,1 @@
-Troubleshooting for the nexisting file to check in branching the sample new branch
-
-here making new chnages for the sample branch learning the pull request----
------------------------------------------------------------------------------
+Demo for sample Review of Pull request with reviewing as review can not be done by your own  pull request.
